@@ -1,0 +1,6 @@
+{
+  "name": "Aapla Zhad - Keshar Heritage Reserve",
+  "description": "Aapla Zhad by Manik Mangoes: Rent a numbered heritage mango tree at Gothangaon Farm. Receive 50 KGs of authentic Keshar mangoes delivered fresh across 3 seasonal harvest flushes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
